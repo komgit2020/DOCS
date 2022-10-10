@@ -20,4 +20,4 @@ User-agent: *
 Disallow: 
 Crawl-delay: 5
 Disallow: /cgi-bin/
-Sitemap: http://www.geocities.ws/electronic-house
+Sitemap: http://www.electronic-hoise.org
