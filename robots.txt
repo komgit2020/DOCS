@@ -20,4 +20,4 @@ User-agent: *
 Disallow: 
 Crawl-delay: 5
 Disallow: /cgi-bin/
-Sitemap: http://www.electronic-hoise.org
+Sitemap: http://www.electronic-house.org/sitemap.xml
