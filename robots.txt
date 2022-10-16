@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://www.electronic-house.org/sitemap.xml
+Sitemap: www.electronic-house.org/sitemap.xml
