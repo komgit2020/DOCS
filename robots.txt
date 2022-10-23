@@ -20,8 +20,13 @@ Disallow: User-agent: psbot
 Disallow: User-agent: yahoo-blogs/v3.9
 Disallow: 
 
+#User-agent: *
+#Disallow:
+
 User-agent: *
-Disallow: 
+Disallow: /http://www.electronic-house.org/
+
+
 Crawl-delay: 5
 Disallow: /cgi-bin/
 Sitemap: http://www.electronic-house.org
