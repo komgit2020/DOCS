@@ -23,10 +23,15 @@ Disallow:
 #User-agent: *
 #Disallow:
 
+#User-agent: *
+#Disallow: /http://www.electronic-house.org/
+
 User-agent: *
-Disallow: /http://www.electronic-house.org/
+Disallow: /cgi-bin/
+Disallow: /scripts/
+Disallow: /tmp/
 
 
 Crawl-delay: 5
 Disallow: /cgi-bin/
-Sitemap: http://www.electronic-house.org
+Sitemap: http://www.electronic-house.org/sitemap.xml
