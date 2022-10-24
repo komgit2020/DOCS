@@ -8,9 +8,9 @@
 #User-agent: Googlebot
 #Disallow: /
 
-User-agent: Googlebot
-User-agent: AdsBot-Google
-Disallow: /
+#User-agent: Googlebot
+#User-agent: AdsBot-Google
+#Disallow: /
 
 User-agent: MSNBot
 Disallow: User-agent: Slurp
